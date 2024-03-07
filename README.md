@@ -9,11 +9,6 @@ Reference and code from here https://circuitdigest.com/tutorial/vehicle-number-p
 
 This project showcases an Automatic Number Plate Recognition (ANPR) system implemented using MATLAB and image processing techniques. The ANPR system captures images of vehicle license plates and processes them through various algorithms to extract alphanumeric information. This system finds applications in diverse settings such as petrol pumps, shopping malls, airports, highways, toll booths, hotels, hospitals, parking lots, and defense/military checkpoints.
 
-If you're new to MATLAB or image processing, you can refer to our previous MATLAB projects:
-
-- [Getting started with MATLAB: A Quick Introduction](#)
-- [Getting Started with Image Processing using MATLAB](#)
-
 ## Key Components
 
 The project consists of three main programs:
